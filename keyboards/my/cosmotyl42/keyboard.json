@@ -14,8 +14,8 @@
     "processor": "RP2040",
     "usb": {
         "device_version": "1.0.0",
-        "pid": "0x0001",
-        "vid": "0xBEEB"
+        "pid": "0xDEAD",
+        "vid": "0xBEEF"
     },
     "bootmagic": {
         "matrix": [0, 5]
